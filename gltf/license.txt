@@ -1,0 +1,11 @@
+Model Information:
+* title:	Black Swan
+* source:	https://sketchfab.com/3d-models/black-swan-07b87591f20c477098bccac03328bdca
+* author:	themechanicthe (https://sketchfab.com/themechanicthe)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Black Swan" (https://sketchfab.com/3d-models/black-swan-07b87591f20c477098bccac03328bdca) by themechanicthe (https://sketchfab.com/themechanicthe) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
